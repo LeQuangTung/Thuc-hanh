@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe0d141-21e9-433a-bd70-cf819a0fc76d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Thực hành 2 bài 7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành 1 bài 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành 2 bài 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành 3 bài 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành 4.1 bài 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành 4.2 bài 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành 4.3 bài 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành 5.1 bài 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành 5.2 bài 8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Ryan/Desktop/Thực hành",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -45,7 +53,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662604913616</updated>
-      <workItem from="1662604914847" duration="331000" />
+      <workItem from="1662604914847" duration="984000" />
+      <workItem from="1662690630783" duration="10819000" />
     </task>
     <servers />
   </component>
