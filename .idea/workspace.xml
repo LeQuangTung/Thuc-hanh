@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe0d141-21e9-433a-bd70-cf819a0fc76d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Bài 11 Mảng/Thực hành 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 12 Hàm/Thực hành 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 12 Hàm/Thực hành 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài 12 Hàm/Thực hành 3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài 11 Mảng/Thực hành 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài 11 Mảng/Thực hành 1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài 11 Mảng/Thực hành 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài 11 Mảng/Thực hành 3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài 11 Mảng/Thực hành 4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài 11 Mảng/Thực hành 4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,16 +30,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ryan/Desktop/Bài tập&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Ryan/Desktop/Thực hành",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +57,9 @@
       <workItem from="1662964656539" duration="31000" />
       <workItem from="1662969998497" duration="2901000" />
       <workItem from="1663037813488" duration="4720000" />
-      <workItem from="1663205653707" duration="7908000" />
+      <workItem from="1663205653707" duration="8506000" />
+      <workItem from="1663291026927" duration="41000" />
+      <workItem from="1663641478774" duration="2967000" />
     </task>
     <servers />
   </component>
